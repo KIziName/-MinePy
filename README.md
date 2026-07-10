@@ -1,1 +1,1 @@
-# -MinePy
+# MinePy
