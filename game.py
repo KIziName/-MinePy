@@ -7,8 +7,8 @@ import webbrowser
 import time
 import sys
 
-from Blocks import *
-from Renderer import draw_item_icon
+from blocks import *
+from renderer import draw_item_icon
 from mobs import DroppedItem, Slime, Zombie, DemonEye, Skeleton
 
 class Game:
